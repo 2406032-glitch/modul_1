@@ -5,6 +5,8 @@ proyek, lalu tuliskan teks berikut:
 * **NIM:** 2406032
 * **Kelas/Prodi:** Teknik Informatika A - ITG
 * **Kode MK:** IFRWP5151
+* **KOMUNITAS:** HIMAKOST 
+* **Jabatan:** Humas
 ---
 ## Catatan Modul 1
 - Instalasi & Verifikasi Tools (VS Code, Node.js, Laragon, Git).
